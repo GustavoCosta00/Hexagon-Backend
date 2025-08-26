@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_home_hero_main_sections",
+  "info": {
+    "displayName": "HeroMainSection",
+    "icon": "crown"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "teste": {
+      "type": "richtext"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_home_hero_main_section_contents",
+  "info": {
+    "displayName": "HeroMainSectionContent",
+    "icon": "crown"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "videos"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_home_pages",
+  "info": {
+    "displayName": "HomePage",
+    "icon": "house"
+  },
+  "options": {},
+  "attributes": {
+    "Titulo": {
+      "type": "string",
+      "required": true
+    },
+    "descricao": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

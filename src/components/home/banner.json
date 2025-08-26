@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_home_banners",
+  "info": {
+    "displayName": "Banner",
+    "icon": "landscape"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "cta_text": {
+      "type": "string"
+    },
+    "cta_link": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "order": {
+      "type": "integer"
+    },
+    "active": {
+      "type": "boolean"
+    }
+  },
+  "config": {}
+}
