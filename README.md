@@ -1,61 +1,34 @@
-# 🚀 Getting started with Strapi
+# PROJETO DASHBOARD PARA GERENCIAR CONTEÚDOS
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
+Esse repositório trabalha em conjunto com um repositório FRONTEND para consultar os dados, caso queira ver o repositório front end [clique aqui](https://github.com/GustavoCosta00/Hexagon-Frontend)
 
-### `develop`
+### `Como ele funciona`
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
+Esse repositório tem a finalidade de criar o `BACKEND` de uma aplicação com STRAPI, aqui dentro você vai encontrar muitas coisas já prontas como: ROTAS, USUÁRIOS, ESTRUTURA DE PASTAS, ESTURURA DE ARQUIVOS e muito mais.
 
-```
-npm run develop
-# or
-yarn develop
-```
 
-### `start`
+### `Primeiros Passos`
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-start)
+Clone esse repositório em sua máquina, abra o terminal do VS CODE e depois utilize o comando:
 
 ```
-npm run start
-# or
-yarn start
+npm install
 ```
+Esse comando leva em torno de 5 minutos, pois é necessário instalar muitas dependências
 
-### `build`
-
-Build your admin panel. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-build)
+Após isso, no seu terminal utilize o comando:
 
 ```
-npm run build
-# or
-yarn build
+npm run dev
 ```
+Em sua primeira vez rodando esse comando ele tente a levar um pouco mais de tempo
 
-## ⚙️ Deployment
+Você deverá ver uma tela parecida com essa:
 
-Strapi gives you many possible deployment options for your project including [Strapi Cloud](https://cloud.strapi.io). Browse the [deployment section of the documentation](https://docs.strapi.io/dev-docs/deployment) to find the best solution for your use case.
+<img width="1351" height="629" alt="Captura de Tela (44)" src="https://github.com/user-attachments/assets/81f21697-cd3f-4484-b791-cbca3d0fbf6e" />
 
-```
-yarn strapi deploy
-```
+## Após isso utilize as credenciais: adm@email.com & Hexagon123
+Pronto! Você logou no sistema do administrador!
 
-## 📚 Learn more
-
-- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
-- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
-- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
-- [Strapi blog](https://strapi.io/blog) - Official Strapi blog containing articles made by the Strapi team and the community.
-- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
-
-Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
-
-## ✨ Community
-
-- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
-- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
-- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
-
----
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
